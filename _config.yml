@@ -16,7 +16,7 @@ email: f.scheuermann@uni-heidelberg.de
 github_username:  fschmnn
 
 description: My first webpage
-include: [_pages]
+#include: [_pages]
 
 # Build settings
 theme: minima
