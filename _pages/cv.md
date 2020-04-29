@@ -6,8 +6,10 @@ permalink: /cv/
 
 # Curriculum vitae 
 
-Let's see how math looks like
+This is a test to see how math looks like
 
 $$
 \int_0^\infty = 1
 $$
+
+and some text after

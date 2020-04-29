@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launches Site"
+title: "Static site generator"
 date: 2020-04-28
 ---
 
