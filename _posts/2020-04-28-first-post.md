@@ -4,4 +4,24 @@ title: "Launches Site"
 date: 2020-04-28
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+## Endless possibilities
+
+you can use equations
+
+$$
+E=mc^2 
+$$
+
+or some code 
+
+```Python
+import numpy as np
+
+x = np.linspace(10)
+```
+
+or create lists
+* first item
+* second item
+
+or make something **bold** or *italic*
