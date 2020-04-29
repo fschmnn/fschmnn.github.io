@@ -16,7 +16,7 @@ email: f.scheuermann@uni-heidelberg.de
 github_username:  fschmnn
 
 description: My first webpage
-#include: [_pages]
+include: [_pages]
 
 # Build settings
 theme: minima
@@ -24,19 +24,19 @@ markdown: kramdown
 
 
 # create permalink for posts and pages
-defaults:
-  -
-    scope:
-      type: posts
-      path: _posts
-    values:
-      isPost: true
-      layout: post
-      permalink: /blog/:categories/:title/
-  -
-    scope:
-      type: pages
-      path: _pages
-    values:
-      isPost: false
-      layout: default
+#defaults:
+#  -
+#    scope:
+#      type: posts
+#      path: _posts
+#    values:
+#      isPost: true
+#      layout: post
+#      permalink: /blog/:categories/:title/
+#  -
+#    scope:
+#      type: pages
+#      path: _pages
+#    values:
+#      isPost: false
+#      layout: default
