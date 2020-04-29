@@ -1,0 +1,21 @@
+I"f<h2 id="endless-possibilities">Endless possibilities</h2>
+
+<p>you can use equations</p>
+
+\[E=mc^2\]
+
+<p>or some code</p>
+
+<pre><code class="language-Python">import numpy as np
+
+x = np.linspace(10)
+</code></pre>
+
+<p>or create lists</p>
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+</ul>
+
+<p>or make something <strong>bold</strong> or <em>italic</em></p>
+:ET
