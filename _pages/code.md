@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Curriculum vitae
-permalink: /cv/ 
+permalink: /code/ 
 ---
 
-# Curriculum vitae 
+# Python
 
 This is a test to see how math looks like
 
@@ -13,3 +13,5 @@ $$
 $$
 
 and some text after
+
+# LaTeX
