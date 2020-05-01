@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-here is a selection of random thoughts
+Congratulations. You found my blog.  Ok this is not a real blog but rather a collection of unrelated bits and pieces that I deemed useful.
+
 
 # {{ page.title }}
 
@@ -16,4 +17,3 @@ here is a selection of random thoughts
 </ul>
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1witWPze5PWBg_l37o1TfOymWuv_S6js8" width="800" height="494"></iframe>

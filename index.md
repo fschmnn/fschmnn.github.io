@@ -4,7 +4,17 @@ title: Fabian Scheuermann
 permalink: / 
 ---
 
-I am a Phd Student at Heidelberg University.
 
 
-This website is under construction
+<div>
+
+<p><img  class="img-circle avatar" alt="Fabian Scheuermann" src="img/photo.jpg" style="float:left;width:150px;margin:10px 50px">
+
+I am a Phd Student at Heidelberg University. <br>
+
+
+
+
+This website is under construction</p>
+
+</div>

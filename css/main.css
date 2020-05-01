@@ -43,3 +43,49 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img {
+    vertical-align: middle;
+  }
+  
+  .img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+  
+  .img-rounded {
+    border-radius: 6px;
+  }
+  
+  .img-thumbnail {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    padding: 4px;
+    line-height: 1.428571429;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+  }
+  
+  .img-circle {
+    border-radius: 50%;
+  }
+
+
+   /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  } 
