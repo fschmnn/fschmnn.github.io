@@ -12,9 +12,6 @@ permalink: /
 
 I am a Phd Student at Heidelberg University. <br>
 
-
-
-
 This website is under construction</p>
 
 </div>

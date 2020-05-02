@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Congratulations. You found my blog.  Ok this is not a real blog but rather a collection of unrelated bits and pieces that I deemed useful.
+Blog is probably the wrong description for this. It is a collection of unrelated bits and pieces that I deemed useful.
 
 
 # {{ page.title }}
