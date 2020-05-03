@@ -1,26 +1,21 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			
-		</head>
-
-		{% include mathjax.html %}	
-		{% include analytics.html %}
+	<html lang="en">
+		
+		{% include head.html %}
+		
 		<body>
-
-			{% include header.html %}
-
 			<div class="container">
+				
+				{% include header.html %}
+				
+				{{ content }}
+				
+				{% include footer.html %}
 			
-			{{ content }}
-			
-			</div><!-- /.container -->
-
-			{% include footer.html %}
-			
+			</div> <!-- /container -->
+		
+		
+			{% include scripts.html %}
+		
 		</body>
 	</html>
-
