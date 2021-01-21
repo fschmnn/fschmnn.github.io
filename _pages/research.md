@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
 
 
 ### Observing Metallicity Enrichment Across Galaxy Disks
 
-I'm currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](http://www.mpia.de/homes/kreckel/index.html) group of Kathryn Kreckel. 
+I'm currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. 
 
 
 ### Self enrichment in feedback regulated clouds

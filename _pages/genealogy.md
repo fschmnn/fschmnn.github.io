@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: Genealogy
+permalink: /genealogy/
 ---
 
-Blog is probably the wrong description for this. It is a collection of unrelated bits and pieces that I deemed useful.
+I am interested in genealogy. This side shows some of my research results (in German).
 
 
 # {{ page.title }}
