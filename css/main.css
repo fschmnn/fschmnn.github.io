@@ -2,8 +2,6 @@ body {
     font-family: 'Palatino','Palatino Linotype','Geramond', 'Serif';
     margin: 60px auto;
     width: 80%;
-    color: #eeeeee;
-
 }
 
 @media (min-width: 1200px) {
