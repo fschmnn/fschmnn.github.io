@@ -1,3 +1,37 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@fschmnn
+fschmnn /
+fschmnn.github.io
+Public
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security 8
+Insights
+
+    Settings
+
+We found potential security vulnerabilities in your dependencies.
+
+Only the owner of this repository can see this message.
+fschmnn.github.io/Gemfile.lock
+@fschmnn
+fschmnn Update Gemfile.lock
+Latest commit 90ff17a on 30 Mar 2021
+History
+2 contributors
+@dependabot
+@fschmnn
+254 lines (251 sloc) 6.8 KB
 GEM
   remote: https://rubygems.org/
   specs:
@@ -67,7 +101,7 @@ GEM
       jekyll-theme-time-machine (= 0.1.1)
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.11.1)
-      kramdown (= 1.17.0)
+      kramdown (>= 2.3.1)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
@@ -252,3 +286,19 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.1.4
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
