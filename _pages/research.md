@@ -8,7 +8,7 @@ This is an overview of the things that I have worked on over the last years
 
 ### Observing Metallicity Enrichment Across Galaxy Disks
 
-I'm currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. The first project I worked on was about measuring the [PNLF]("/about_site") in MUSE data
+I'm currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. The first project I worked on was about measuring the [PNLF](/PNLF) in MUSE data
 
 
 ### Self enrichment in feedback regulated clouds
