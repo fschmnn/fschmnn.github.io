@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fabian Scheuermann
+title: home
 permalink: / 
 ---
 
@@ -10,8 +10,8 @@ permalink: /
 
 <p><img  class="img-circle avatar" alt="Fabian Scheuermann" src="img/photo.jpg" style="float:left;width:150px;margin:10px 50px">
 
-I am a Phd Student at Heidelberg University. <br>
+I am a PhD Student at Heidelberg University. <br>
 
-This website is under construction</p>
+This website is under construction ... since 2020</p>
 
 </div>
