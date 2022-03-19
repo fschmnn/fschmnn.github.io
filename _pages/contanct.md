@@ -10,7 +10,7 @@ Zentrum für Astronomie der Universität Heidelberg
 
 Astronomisches Rechen-Institut
 
-Mönchhofstr. 12-14
+Mönchhofstr. 12--14
 
 69120 Heidelberg 
 

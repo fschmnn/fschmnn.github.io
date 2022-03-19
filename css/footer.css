@@ -1,3 +1,9 @@
 /* Style the header with a grey background and some padding */
 
-  
+.footer {
+    font-family: 'Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
+    background-color: #eeeeee;
+    padding:    5px 5px;
+    color: #333333;
+    }
+    

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Genealogy
-permalink: /genealogy/
+title: Blog
+permalink: /blog/
 ---
 
 I am interested in genealogy. This side shows some of my research results (in German).
