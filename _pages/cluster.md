@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Stellar associations powering HII regions"
+title: "Stellar associations powering Hɪɪ regions"
 permalink: /cluster/ 
 ---
 
 
-## Stellar associations powering HII regions
+## Stellar associations powering Hɪɪ regions
 
 work in progres
 

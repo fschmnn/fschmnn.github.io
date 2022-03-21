@@ -5,10 +5,9 @@ permalink: /
 ---
 
 
-
 <div>
 
-<p><img  class="img-circle avatar" alt="Fabian Scheuermann" src="img/photo.jpg" style="float:left;width:150px;margin:10px 50px">
+<p><img  class="img-circle avatar" alt="Fabian Scheuermann" src="assets/img/photo.jpg" style="float:left;width:150px;margin:10px 50px">
 
 I am a PhD Student at Heidelberg University. <br>
 

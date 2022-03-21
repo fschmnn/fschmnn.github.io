@@ -5,52 +5,71 @@ date: 2021-01-21
 ---
 
 
-
-Hier ist eine Sammlung von nützlichen Seiten zur Ahnenforschung
-
+hier ist eine Liste der Bürgermeister von Mudau und Langenelz. Soweit bekannt ist die Person auf FamilySearch verlinkt.
 
 
-### Online Datenbanken
+#### Mudau
 
-folgende Onlineressourcen wurden für die Recherche verwendet (mit Link zur Quelle) 
+1. 1806–1812: Joh. Jos. Pfaff
 
-* [FamilySearch.org](https://www.familysearch.org/) (FamilySearch ID: xxx-xxx)
+2. 1812–1833: Johann Hauck
 
-* [Genealogy.net](http://www.genealogy.net)  (mit [Limbach und Umgebung](http://gedbas.genealogy.net/person/database/50196))
-* [Global search](http://familie-beuss.de/Crawl) 
-* [rootsweb](https://wc.rootsweb.com/cgi-bin/igm.cgi)
+3. 1833–1840: Pankraz Link [Übereinstimmung](https://www.familysearch.org/tree/person/details/LLHP-TJL)
 
-### Friedhöfe
+4. 1841–1856: Franz Grimm
 
-- [Friedhof Mudau](http://grabsteine.genealogy.net/namelist.php?cem=3902&lang=de)
-- [Friedhof Langenelz](http://grabsteine.genealogy.net/namelist.php?cem=3810&lang=de)
-- [Friedhof Laudenberg](http://grabsteine.genealogy.net/namelist.php?cem=3609&lang=de)
+5. 1856: Andreas Knapp
 
-### Geburts, Heirats und Sterberegister (vor 1870):
+6. 1857–1869: Karl Oeden [mögliche Übereinstimmung](https://www.familysearch.org/tree/person/details/LLCT-MRS)
 
-Das Landesarchiv Baden-Württemberg hat die badischen Kirchenbücher von 1810–1870 digitalisiert und online zur Verfügung gestellt
+7. 1870–1884: Wilhelm Schäfer
 
-- [Langenelz](http://www.landesarchiv-bw.de/plink/?f=4-1119438)
-- [Mudau](http://www.landesarchiv-bw.de/plink/?f=4-1119482)
+8. 1884–1905: Isidor Linz [mögliche Übereinstimmung](https://www.familysearch.org/tree/person/details/LT6Y-G29)
 
-### Alte Karten
+9. 1905–1919: August Burkhardt
 
-das Generallandesarchiv in Karlsruhe hat auch alte Karten von 1879
+10. 1919–1933: Otto Link
 
-http://www.landesarchiv-bw.de/plink/?f=4-468846-1
+11. 1933–1945: Melchior Kinzig
 
-### Auswanderer
+12. 1945–1948: Karl Breunig
 
-auf leo-bw.de gibt es eine Liste mit Auswanderern aus verschiedenen Ortschaften
+13. 1948–1979: Erich Bucher
 
-[Mudau](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/6105/Auswanderer+aus+Mudau)
+14. 1980–2004: Wilhelm Schwender
 
-[Langenelz](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/6103/Auswanderer+aus+Langenelz)
+15. seit 2004: Norbert Rippberger
 
-[Mörschenhardt](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/6104/Auswanderer+aus+M%C3%B6rschenhardt)
+    
 
-## Kirchenarchive
+#### Langenelz 
 
-[Freiburg](https://www.ebfr.de/html/content/erzb_archiv.html?stichwortsuche=Ahnenforschung)
+(Heimatbuch Seite 239)
 
-[Würzburg](https://abbw.bistum-wuerzburg.de/archiv/familienforschung/)
+1832: Franz Galm (Otwin)
+
+1850:  Johann Josef Galm (Neubauern) [Übereinstimmung](https://www.familysearch.org/tree/person/details/LVN5-MSZ)
+
+1852-1870: Valtin Biemer [Übereinstimmung](https://www.familysearch.org/tree/person/details/LVNK-WRK)
+
+1870-1876: Johann Josef Galm (Neubauern) [Übereinstimmung](https://www.familysearch.org/tree/person/details/LVN5-MSZ)
+
+1876-1888: Wilhelm Müller
+
+1888-1903: Johann Josef Mechler (Marxe) [Übereinstimmung](https://www.familysearch.org/tree/person/details/LVKC-LYX)
+
+1903-1921: Eduard Schwab
+
+1921-1933: Josef Stuhl
+
+1933-1936: Karl Schäfer
+
+1936-1945: Eingemeindet nach Mudau
+
+1945-1948: Josef Stuhl
+
+1948-1965: Ludwig Grimm
+
+1966-1970: Otto Hönig
+
+1970-1974: Wilhelm Münch
