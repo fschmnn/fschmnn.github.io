@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Blog
+title: blog
 permalink: /blog/
 ---
 
+## Blog
 
-# {{ page.title }}
+This site contains notes on various topics (some in german).
 
 <ul class="posts">
 	{% for post in site.posts %}
