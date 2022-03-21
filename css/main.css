@@ -14,6 +14,10 @@ body {
 }
 }
 
+ul li{
+  font-size:1.2em;
+ }
+
 nav ul, footer ul {
   font-family: 'Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
   padding: 0px;
@@ -101,3 +105,8 @@ img {
   display: table;
 } 
 
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
