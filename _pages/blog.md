@@ -6,7 +6,7 @@ permalink: /blog/
 
 ## Blog
 
-This site contains notes on various topics (some in german).
+This site contains notes on various topics (some of them are in german).
 
 <ul class="posts">
 	{% for post in site.posts %}

@@ -7,7 +7,7 @@ permalink: /cluster/
 
 ## Stellar associations powering Hɪɪ regions
 
-work in progres
+work in progress ...
 
 
 
