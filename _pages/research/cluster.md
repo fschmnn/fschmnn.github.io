@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stellar associations powering Hɪɪ regions"
-permalink: /cluster/ 
+permalink: /research/cluster/ 
 ---
 
 

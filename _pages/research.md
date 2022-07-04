@@ -9,8 +9,8 @@ Here is an overview of the things that I have worked on over the last years
 ## Observing Metallicity Enrichment Across Galaxy Disks
 
 I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. 
-* PNLF distances for 19 galaxies observed by PHANGS–MUSE ([link](/pnlf)).
-* Stellar associations powering Hɪɪ regions ([link](/cluster)).
+* PNLF distances for 19 galaxies observed by PHANGS–MUSE ([link](/research/pnlf)).
+* Stellar associations powering Hɪɪ regions ([link](/research/cluster)).
 
 ## Self enrichment in feedback regulated clouds
 
