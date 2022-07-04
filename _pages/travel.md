@@ -4,6 +4,7 @@ title: travel
 permalink: /travel/
 ---
 
+the first steps towards a travel blog ...
 
 ## Florenz 2022
 
