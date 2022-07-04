@@ -2,11 +2,11 @@
 layout: default
 title: "Ascona"
 permalink: /travel/ascona/ 
-description: Ascona
+description: Stellar Feedback conference in Ascona (2022)
 ---
 
 
-## Ascona
+## Stellar Feedback conference in Ascona
 
 I will soon go to Ascona for the ["A Holistic View of Stellar Feedback and Galaxy Evolution"](http://astro.dur.ac.uk/ascona/) conference.
 

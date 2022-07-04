@@ -6,15 +6,14 @@ permalink: /travel/
 
 the first steps towards a travel blog ...
 
-## Florenz 2022
+# 2022
 
-[link](/travel/florence)
+## [Florence](/travel/florence)
 
 
-## EAS 2022 in Valencia
+## [EAS 2022 in Valencia](/travel/valencia)
 
-[link](/travel/valencia)
 
-## Ascona 2022
+## [Ascona](/travel/ascona)
 
-[link](/travel/ascona)
+
