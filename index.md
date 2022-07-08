@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Fabian Scheuermann
 permalink: / 
 description: I am a PhD Student in astronomy in Heidelberg
 ---

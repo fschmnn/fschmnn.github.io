@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PNLF"
+title: "research | PNLF"
 permalink: /research/pnlf/ 
 description: Planetary Nebula Luminosity Function (PNLF) distances for 19 galaxies observed by PHANGS--MUSE
 ---

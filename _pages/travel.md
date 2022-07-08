@@ -11,9 +11,8 @@ the first steps towards a travel blog ...
 ## [Florence](/travel/florence)
 
 
-## [EAS 2022 in Valencia](/travel/valencia)
+## [Valencia](/travel/valencia)
 
 
 ## [Ascona](/travel/ascona)
-
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ascona"
+title: "travel | Ascona"
 permalink: /travel/ascona/ 
 description: Stellar Feedback conference in Ascona (2022)
 ---

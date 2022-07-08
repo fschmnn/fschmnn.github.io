@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Florence"
+title: "travel | Florence"
 permalink: /travel/florence/ 
 description: Visit INAF Acetri in Florence (2022)
 ---

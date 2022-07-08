@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Stellar associations powering Hɪɪ regions"
+title: "research | Stellar associations powering Hɪɪ regions"
 permalink: /research/cluster/ 
 ---
 

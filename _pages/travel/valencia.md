@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Valencia"
+title: "travel | Valencia"
 permalink: /travel/valencia/ 
 description: Attend EAS 2022 in Valencia
 ---
