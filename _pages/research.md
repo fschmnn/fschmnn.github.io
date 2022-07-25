@@ -2,6 +2,7 @@
 layout: default
 title: research
 permalink: /research/
+description: Here is an overview of the things I've been working on over the last years
 ---
 
 Here is an overview of the things that I have worked on over the last years

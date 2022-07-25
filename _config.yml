@@ -43,3 +43,9 @@ defaults:
     values:
       isPost: false
       layout: default
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
