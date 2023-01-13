@@ -6,6 +6,12 @@ permalink: /travel/
 
 the first steps towards a travel blog ...
 
+# 2023
+
+## [Los Angeles](/travel/los_angeles)
+
+
+
 # 2022
 
 ## [Florence](/travel/florence)
