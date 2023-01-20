@@ -11,7 +11,8 @@ Here is an overview of the things that I have worked on over the last years
 
 I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. 
 * PNLF distances for 19 galaxies observed by PHANGS–MUSE ([link](/research/pnlf)).
-* Stellar associations powering Hɪɪ regions ([link](/research/cluster)).
+* Stellar associations powering Hɪɪ regions – I. Defining an evolutionary sequence ([link](/research/evolution)).
+* Stellar associations powering Hɪɪ regions – II. Escape fractions ([link](/research/escape_fractions)).
 
 ## Self enrichment in feedback regulated clouds
 
