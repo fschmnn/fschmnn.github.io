@@ -8,7 +8,7 @@ the first steps towards a travel blog ...
 
 # 2023
 
-## [Los Angeles](/travel/los_angeles)
+## [La La Land](/travel/la)
 
 
 
