@@ -13,8 +13,10 @@ description: I am a PhD Student in astronomy in Heidelberg
 
 <p><img  class="img-circle avatar" alt="Fabian Scheuermann" src="assets/img/photo.jpg" style="float:left;width:150px;margin:10px 50px">
 
-I am a PhD Student at Heidelberg University. <br>
+<b>Welcome!</b><br>
 
-This website is under construction ... since 2020</p>
+I am a PhD Student at Heidelberg University. My research is focused on the ionized gas in nearby galaxy.
+
+</p>
 
 </div>
