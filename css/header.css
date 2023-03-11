@@ -1,6 +1,6 @@
 /* Style the header with a grey background and some padding */
 .header {
-  font-family: 'Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
+  font-family: 'Jost','Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
   overflow: hidden;
   background-color: #eeeeee;
   padding:    20px 0px;
@@ -43,7 +43,7 @@ float: right;
 }
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 720px) {
 .header a {
   float: none;
   display: block;

@@ -15,7 +15,7 @@ title: Fabian Scheuermann
 email: f.scheuermann@uni-heidelberg.de
 github_username:  fschmnn
 
-description: My webpage
+description: This is the personal website of Fabian Scheuermann, PhD student in Astronomy at Heidelberg University
 include: [_pages]
 
 # Build settings
@@ -24,7 +24,6 @@ markdown: kramdown
 
 # Google Analytics
 #google_analytics: UA-165271804-1
-
 
 # create permalink for posts and pages
 defaults:
@@ -44,7 +43,7 @@ defaults:
       isPost: false
       layout: default
 
-gems:
+plugins:
   - jekyll-sitemap
 
 whitelist:
