@@ -1,12 +1,12 @@
 body {
-  font-family: 'Palatino','Palatino Linotype','Geramond', 'Serif';
+  font-family: "Jost", sans-serif;
   margin: 60px auto;
   width: 50%;
   background-color: #eeeeee;
   color: #333333;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 720px) {
 /* CSS that should be displayed if width is equal to or larger than 1200px goes here */
 body {
   width: 80%;
@@ -18,7 +18,7 @@ ul li{
  }
 
 nav ul, footer ul {
-  font-family: 'Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
+  font-family: "Jost", sans-serif;
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -35,12 +35,12 @@ a:hover {
   text-decoration: none;
 }
 h1 {
-  font-family: 'Helvetica Neue', 'Helvetica', 'Liberation Sans', 'Sans-Serif';
+  font-family: "Jost", sans-serif;
   font-size: 2em;
 }
 /* the text color */
 p {
-  font-family: 'Palatino Linotype','Palatino', 'Georgia','Serif'; 
+  font-family: "Jost", sans-serif; 
   font-size: 1.2em;
   line-height: 1.4em;
   color: #333333;
