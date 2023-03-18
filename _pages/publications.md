@@ -10,7 +10,7 @@ For an up-to-date list of publications see [ADS](https://ui.adsabs.harvard.edu/s
 ### First-author 
 
 1. Scheuermann, F. et al., 2022, [MNRAS](http://dx.doi.org/10.1093/mnras/stac110), [511, 6087](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6087S),<br>*Planetary nebula luminosity function distances for 19 galaxies observed by PHANGS–MUSE.*
-2. Scheuermann, F. et al., 2023, MNRAS, (submitted),<br>*Stellar associations powering Hɪɪ regions – I. Defining an evolutionary sequence.*
+2. Scheuermann, F. et al., 2023, MNRAS, (accepted),<br>*Stellar associations powering Hɪɪ regions – I. Defining an evolutionary sequence.*
 3. Scheuermann, F. et al., (in preparation),<br> *Stellar associations powering Hɪɪ regions – II. Escape fractions.*
 
 ### Co-author
