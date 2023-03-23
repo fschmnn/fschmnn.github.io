@@ -15,7 +15,7 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
 <div class="meta">
     <div class="photo" style="background-image: url(/assets/img/escape_fraction.png)"></div>
     <ul class="details">
-    <li class="date">Jul. 31, 2023</li>
+    <li class="date">2023, Jul. 31</li>
     <li class="tags">
         <ul>
         <li><a href="#">In preparation</a></li>
@@ -37,10 +37,12 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
 <div class="meta">
     <div class="photo" style="background-image: url(/assets/img/HII_region_evolution.jpg)"></div>
     <ul class="details">
-    <li class="date">Mar. 16, 2023</li>
+    <li class="date">2023, Mar. 16</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Accepted</a></li>
+        <li><a href="http://dx.doi.org/10.1093/mnras/stad878">MNRAS</a></li>
+        <li><a href="https://ui.adsabs.harvard.edu/abs/arXiv:2303.12101">ADS</a></li>
+        <li><a href="https://arxiv.org/abs/2303.12101">arXiv</a></li>
         </ul>
     </li>
     </ul>
@@ -60,7 +62,7 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
     <div class="photo" style="background-image: url(/assets/img/pnlf_single.png)"></div>
     <ul class="details">
     <li class="author"><a href="#">Fabian Scheuermann</a></li>
-    <li class="date">Jan. 11, 2022</li>
+    <li class="date">2022, Jan. 11</li>
     <li class="tags">
         <ul>
         <li><a href="http://dx.doi.org/10.1093/mnras/stac110">MNRAS</a></li>
@@ -86,7 +88,7 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
 <div class="meta">
     <div class="photo" style="background-image: url(/assets/img/msc_thesis.png)"></div>
     <ul class="details">
-    <li class="date">Mar. 29, 2019</li>
+    <li class="date">2019, Mar. 29</li>
     <li class="tags">
         <ul>
         <li><a href="#">Master Thesis</a></li>
@@ -105,7 +107,7 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
 <div class="meta">
     <div class="photo" style="background-image: url(/assets/img/bsc_thesis.png)"></div>
     <ul class="details">
-    <li class="date">Oct. 07, 2016</li>
+    <li class="date">2016, Oct. 07</li>
     <li class="tags">
         <ul>
         <li><a href="#">Bachelor Thesis</a></li>
