@@ -18,7 +18,7 @@ Interpreting these as evolutionary tracers, we find younger nebulae to be more a
 We also observe strong correlations with the local metallicity variations and all three proposed age tracers, suggestive of star formation preferentially occurring in locations of locally enhanced metallicity. 
 Overall, EW and $$\log q$$ show the most consistent trends and appear to be most reliable tracers for the age of an Hɪɪ region.
 
-
+You can find the full paper [here](https://ui.adsabs.harvard.edu/abs/2023arXiv230312101S/abstract).
 
 
 

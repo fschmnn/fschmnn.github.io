@@ -3,10 +3,10 @@
 
     <a href="/" class="logo">Fabian Scheuermann</a>
 
-    <div class="header-right">
+    <div class="nav">
         {% assign current = page.url | downcase | split: '/' %}
-
         <a href='/research' {% if current[1] == 'research' %}class='active'{% endif %}>Research</a>
+        <a href='/travel' {% if current[1] == 'travel' %}class='active'{% endif %}>Travel</a>
         <!-- <a href='/genealogy' {% if current[1] == 'genealogy' %}class='active'{% endif %}>Genealogy</a>
         <a href='/code' {% if current[1] == 'code' %}class='active'{% endif %}>Code</a>  -->
         <a href='/contact' {% if current[1] == 'contact' %}class='active'{% endif %}>Contact</a>
