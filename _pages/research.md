@@ -15,8 +15,8 @@ Here is an overview of completed and ongoing projects. You can find a list of pu
     <li class="date">2023, Oct. 15</li>
     <li class="tags">
         <ul>
-        <li>PhD Thesis</li>Credit:
-        <li>Credit: <a href="https://www.eso.org/public/images/eso2110b/">ESO/PHANGS</a</li>
+        <li>PhD Thesis</li>
+        <li>Credit: <a href="https://www.eso.org/public/images/eso2110b/">ESO/PHANGS</a></li>
         </ul>
     </li>
     </ul>
