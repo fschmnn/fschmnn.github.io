@@ -15,7 +15,7 @@ The first steps towards a travel blog ...
     <li class="date">2023, Feb. 20</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Collaboration meeting</a></li>
+        <li>Collaboration meeting</li>
         </ul>
     </li>
     </ul>

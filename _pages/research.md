@@ -2,10 +2,10 @@
 layout: default
 title: research
 permalink: /research/
-description: Here is an overview of the things I've been working on over the last years
+description: Here is an overview of the things that I have been working on over the last years
 ---
 
-Here is an overview of the things that I have worked on over the last years. You can find a list of publications [here](/research/publications).
+Here is an overview of completed and ongoing projects. You can find a list of publications [here](/research/publications).
 
 
 <div class="blog-card alt">
@@ -15,7 +15,8 @@ Here is an overview of the things that I have worked on over the last years. You
     <li class="date">2023, Oct. 15</li>
     <li class="tags">
         <ul>
-        <li><a href="#">PhD Thesis</a></li>
+        <li>PhD Thesis</li>Credit:
+        <li>Credit: <a href="https://www.eso.org/public/images/eso2110b/">ESO/PHANGS</a</li>
         </ul>
     </li>
     </ul>
@@ -107,7 +108,7 @@ Here is an overview of the things that I have worked on over the last years. You
     <li class="date">2019, Mar. 29</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Master Thesis</a></li>
+        <li>Master Thesis</li>
         </ul>
     </li>
     </ul>
@@ -126,7 +127,7 @@ Here is an overview of the things that I have worked on over the last years. You
     <li class="date">2016, Oct. 07</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Bachelor Thesis</a></li>
+        <li>Bachelor Thesis</li>
         </ul>
     </li>
     </ul>
