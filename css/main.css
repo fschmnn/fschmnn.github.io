@@ -6,13 +6,6 @@ body {
   color: #333333;
 }
 
-@media (max-width: 720px) {
-/* CSS that should be displayed if width is equal to or larger than 1200px goes here */
-body {
-  width: 80%;
-}
-}
-
 ul li{
   font-size:1.2em;
  }
@@ -33,6 +26,8 @@ a {
 }
 a:hover {
   text-decoration: none;
+  /*background-color: #ddd;*/
+  color: black;
 }
 h1 {
   font-family: "Jost", sans-serif;
@@ -109,3 +104,14 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
+
+@media (max-width: 720px) {
+  /* CSS that should be displayed if width is equal to or larger than 1200px goes here */
+  body {
+    width: 80%;
+  }
+  img {
+    float: center;
+    text-align: center;
+  }
+  }

@@ -7,9 +7,13 @@
     color: #333333;
     }
     
-.links {
+.link {
     float: right;
     text-align: right;
+}
+
+.link a:hover{
+    filter: invert(100%);
 }
 
 .copyright {
@@ -20,7 +24,7 @@
 
 
 @media screen and (max-width: 720px) {
-.links {
+.link {
     padding: 10px;
     float: center;
     text-align: center;
