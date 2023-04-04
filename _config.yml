@@ -22,7 +22,7 @@ theme: minima
 markdown: kramdown
 
 # Google Analytics
-google_analytics: UA-165271804-1
+google_analytics: true
 
 # create permalink for posts and pages
 defaults:

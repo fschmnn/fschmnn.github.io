@@ -1,0 +1,62 @@
+/* Style the header with a grey background and some padding */
+
+@import "variables";
+
+.header {
+    font-family: $fonts;
+    overflow: hidden;
+    background-color: $backcolor;
+    padding:    20px 0px;
+  }
+  
+  /* Style the header links */
+  .header a {
+  float: left;
+  color: $accentcolor;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+  }
+  
+  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+  .header a.logo {
+  color: $darkgray;
+  font-size: 25px;
+  font-weight: bold;
+  }
+  
+  /* Change the background color on mouse-over */
+  .header a:hover {
+  background-color: $lightgray;
+  color: black;
+  }
+  
+  /* Style the active/current link*/
+  .header a.active {
+  background-color: $accentcolor;
+  color: white;
+  }
+  
+  /* Float the link section to the right */
+  .nav {
+  float: right;
+  }
+  
+  /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+  @media screen and (max-width: 720px) {
+  .header {
+    padding: 10px 40px;
+  }
+  .header a {
+    float: none;
+    padding: 8px;
+    display: block;
+    /*text-align: left;*/
+  }
+  .nav {
+    float: none;
+  }
+  }

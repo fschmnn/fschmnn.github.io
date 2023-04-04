@@ -1,9 +1,20 @@
+
+@import "variables";
+
 body {
-  font-family: "Jost", sans-serif;
+  color: $darkgray;
+  font-family: $fonts;
   margin: 60px auto;
   width: 50%;
-  background-color: #eeeeee;
-  color: #333333;
+  background-color: $backcolor;
+}
+
+/* the text color */
+p {
+  font-family: $fonts; 
+  font-size: 1.2em;
+  line-height: 1.4em;
+  color: $textcolor;
 }
 
 ul li{
@@ -11,7 +22,7 @@ ul li{
  }
 
 nav ul, footer ul {
-  font-family: "Jost", sans-serif;
+  font-family: $fonts;
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -22,28 +33,18 @@ nav ul li, footer ul li {
 }
 a {
   text-decoration: none;
-  color: rgb(175, 29, 29);
+  color: $accentcolor;
 }
 a:hover {
   text-decoration: none;
-  /*background-color: #ddd;*/
-  color: black;
+  //background-color: #ddd;
+  color: $darkgray;
 }
 h1 {
-  font-family: "Jost", sans-serif;
+  font-family: $fonts;
   font-size: 2em;
 }
-/* the text color */
-p {
-  font-family: "Jost", sans-serif; 
-  font-size: 1.2em;
-  line-height: 1.4em;
-  color: #333333;
-}
-footer {
-  border-top: 1px solid #d5d5d5;
-  font-size: .8em;
-}
+
 
 ul.posts { 
   margin: 20px auto 40px; 
