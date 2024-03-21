@@ -1,0 +1,39 @@
+/* Style the header with a grey background and some padding */
+
+@import "variables";
+
+.footer {
+    font-family: $fonts;
+    background-color: $backcolor;
+    padding:    5px 5px;
+    color: $darkgray;
+    }
+    
+.link {
+    float: right;
+    text-align: right;
+}
+
+.link a:hover{
+    filter: invert(100%);
+}
+
+.copyright {
+    font-size: 18px;
+    float: left;
+    text-align: left;
+}
+
+
+@media screen and (max-width: 720px) {
+.link {
+    padding: 10px;
+    float: center;
+    text-align: center;
+}
+.copyright {
+    padding: 10px 50px;
+    float: center;
+    text-align: center;
+}
+}

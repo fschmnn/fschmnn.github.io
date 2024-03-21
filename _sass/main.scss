@@ -1,60 +1,42 @@
+
+@import "variables";
+
 body {
-  font-family: "Jost", sans-serif;
+  color: $darkgray;
+  font-family: $fonts;
   margin: 60px auto;
   width: 50%;
-  background-color: #eeeeee;
-  color: #333333;
+  background-color: $backcolor;
 }
 
-@media (max-width: 720px) {
-/* CSS that should be displayed if width is equal to or larger than 1200px goes here */
-body {
-  width: 80%;
-}
+* {
+  box-sizing: border-box;
 }
 
-ul li{
-  font-size:1.2em;
- }
-
-nav ul, footer ul {
-  font-family: "Jost", sans-serif;
-  padding: 0px;
-  list-style: none;
-  font-weight: bold;
-}
-nav ul li, footer ul li {
-  display: inline;
-  margin-right: 20px;
-}
-a {
-  text-decoration: none;
-  color: rgb(175, 29, 29);
-}
-a:hover {
-  text-decoration: none;
-}
-h1 {
-  font-family: "Jost", sans-serif;
-  font-size: 2em;
-}
 /* the text color */
 p {
-  font-family: "Jost", sans-serif; 
+  font-family: $fonts; 
   font-size: 1.2em;
   line-height: 1.4em;
-  color: #333333;
-}
-footer {
-  border-top: 1px solid #d5d5d5;
-  font-size: .8em;
+  color: $textcolor;
+  text-align: justify;
 }
 
-ul.posts { 
-  margin: 20px auto 40px; 
-  font-size: 1.2em;
+a {
+  text-decoration: none;
+  color: $accentcolor;
+}
+a:hover {
+  text-decoration-line: underline;
 }
 
+h1 {
+  font-family: $fonts;
+  font-size: 2em;
+}
+
+
+// remove bullet points from blog post list
 ul.posts li {
   list-style: none;
 }
@@ -109,3 +91,14 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
+
+@media (max-width: 720px) {
+  /* CSS that should be displayed if width is equal to or larger than 1200px goes here */
+  body {
+    width: 80%;
+  }
+  img {
+    float: center;
+    text-align: center;
+  }
+  }

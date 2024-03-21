@@ -1,16 +1,11 @@
 <div class="header"; style="position: relative; top: -20px;">
-    <link rel="stylesheet" href="/css/header.css">
-
     <a href="/" class="logo">Fabian Scheuermann</a>
-
-    <div class="header-right">
+    <div class="nav">
         {% assign current = page.url | downcase | split: '/' %}
-
         <a href='/research' {% if current[1] == 'research' %}class='active'{% endif %}>Research</a>
-        <!-- <a href='/genealogy' {% if current[1] == 'genealogy' %}class='active'{% endif %}>Genealogy</a>
-        <a href='/code' {% if current[1] == 'code' %}class='active'{% endif %}>Code</a>  -->
+        <!--<a href='/code' {% if current[1] == 'code' %}class='active'{% endif %}>Code</a>  -->
         <a href='/contact' {% if current[1] == 'contact' %}class='active'{% endif %}>Contact</a>
     </div>
 </div> 
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray;margin-top: -12px;">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray;margin-top: -16px;">

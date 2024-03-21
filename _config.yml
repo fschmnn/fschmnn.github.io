@@ -22,7 +22,7 @@ theme: minima
 markdown: kramdown
 
 # Google Analytics
-#google_analytics: UA-165271804-1
+google_analytics: true
 
 # create permalink for posts and pages
 defaults:
@@ -44,12 +44,12 @@ defaults:
 
 # define the items that appear in the footer
 external:              
+  - {title: ADS, icon: ads_bw, width:50, url: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2707-4678&sort=date%20desc%2C%20bibcode%20desc&p_=0"}
   - {title: ORCID, icon: orcid_bw, url: "https://orcid.org/0000-0003-2707-4678"}
-  - {title: ADS, icon: ads_bw, url: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2707-4678&sort=date%20desc%2C%20bibcode%20desc&p_=0"}
   - {title: GoogleScholar, icon: google_bw, url: "https://scholar.google.com/citations?user=58UwVOcAAAAJ"}
   - {title: Github, icon: GitHub_bw, url: "https://github.com/fschmnn"}
   - {title: LinkedIn, icon: linkedin_bw, url: "https://de.linkedin.com/in/fschmnn"}
-  - {title: Twitter, icon: twitter_bw, url: "https://twitter.com/fschmnn"}
+  #- {title: Twitter, icon: twitter_bw, url: "https://twitter.com/fschmnn"}
   - {title: Letterboxd, icon: letterboxd_bw, url: "https://letterboxd.com/jukeboxhero/"}
 
 plugins:

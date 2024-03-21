@@ -1,0 +1,23 @@
+//
+// VARIABLES
+//
+
+// Colors
+$accentcolor: rgb(175,29,29);
+$linkcolor: rgb(175,29,29);
+$cardcolor: #ffffff;
+$textcolor: #333333;
+$linkhover: black;
+$backcolor: #eeeeee;
+$lightgray: #dddddd;
+$darkgray: #4D4D4D;
+
+// Font stacks
+$fonts: "Jost", sans-serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media (max-width: 720px) {
+    @content;
+  }
+}

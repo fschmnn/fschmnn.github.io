@@ -2,15 +2,14 @@
 <hr style="height:1px;border-width:0;color:gray;background-color:gray;margin-top: 150px;"> 
 
 <div class="footer">
-    <link rel="stylesheet" href="/css/header.css">
-    <p style="text-align:left;">
-		<a href="/about" title="about">&copy; fschmnn 2020&ndash;2023</a>
-    <span style="float:right;">
+    <span class="link">
 		{%- for item in site.external -%}
-		{%- assign width = item.width | default: 20 -%}
-		{%- assign width = item.height | default: 20 -%}
-		<a href="{{ item.url }}"> <img alt= {{item.title}} src="/assets/icons/{{item.icon}}.png" width={{width}} height={{height}} /></a> &nbsp;
+		{%- assign width = item.width | default: 32 -%}
+		{%- assign width = item.height | default: 25 -%}
+		<a href="{{ item.url }}" target="_blank"> <img alt= {{item.title}} src="/assets/icons/{{item.icon}}.png" width={{width}} height={{height}} /></a> &nbsp;
 		{%- endfor -%}
 	</span>
-	</p>
+    <div class="copyright">
+	<a href="/about" title="about">&copy; fschmnn 2020&ndash;2024</a>
+	</div>
 </div>

@@ -2,14 +2,31 @@
 layout: default
 title: research
 permalink: /research/
-description: Here is an overview of the things I've been working on over the last years
+description: Here is an overview of the things that I have been working on over the last years
 ---
 
-Here is an overview of the things that I have worked on over the last years. You can find a list of publications [here](/research/publications).
+Here is an overview of completed and ongoing projects. You can find a list of publications [here](/research/publications).
 
-## Characterizing ionizing sources with PHANGS–MUSE
 
-I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://wwwstaff.ari.uni-heidelberg.de/kkreckel/) group of Kathryn Kreckel. In my work I combine different state-of-the art telescopes like MUSE/VLT or *HST* to constraint the evolution of emission line nebulae. 
+<div class="blog-card alt">
+<div class="meta">
+    <div class="photo" style="background-image: url(/assets/img/NGC4303.jpg)"></div>
+    <ul class="details">
+    <li class="date">2023, Oct. 15</li>
+    <li class="tags">
+        <ul>
+        <li>PhD Thesis</li>
+        <li>Credit: <a href="https://www.eso.org/public/images/eso2110b/">ESO/PHANGS</a></li>
+        </ul>
+    </li>
+    </ul>
+</div>
+<div class="description">
+    <h1>Characterizing emission line nebulae with PHANGS–MUSE</h1>
+    <p>I am currently doing my PhD in the <a href="https://wwwstaff.ari.uni-heidelberg.de/kkreckel/">Baryon Cycle in Nearby Galaxies</a> group of Kathryn Kreckel. For my work I combine various state-of-the art telescopes like MUSE/VLT or <i>HST</i> to study the ionized gas in nearby galaxies.</p>
+</div>
+</div>
+
 
 <div class="blog-card">
 <div class="meta">
@@ -61,7 +78,7 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
 <div class="meta">
     <div class="photo" style="background-image: url(/assets/img/pnlf_single.png)"></div>
     <ul class="details">
-    <li class="author"><a href="#">Fabian Scheuermann</a></li>
+    <!--<li class="author"><a href="#">Fabian Scheuermann</a></li>-->
     <li class="date">2022, Jan. 11</li>
     <li class="tags">
         <ul>
@@ -91,14 +108,14 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
     <li class="date">2019, Mar. 29</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Master Thesis</a></li>
+        <li>Master Thesis</li>
         </ul>
     </li>
     </ul>
 </div>
 <div class="description">
     <h1>Self enrichment in feedback regulated clouds</h1>
-    <p>Before this I completed my Master in the <a href="http://klessen.org/">Star Formation Group</a> of Ralf Klessen.</p>
+    <p>Before this I completed my Master in the <a href="http://klessen.org/">Star Formation Group</a> of Ralf Klessen. Based on the 1D feedback code WARPFIELD, I simulated how the abundances in Hɪɪ evolve over time. </p>
 </div>
 </div>
 
@@ -110,13 +127,13 @@ I am currently doing my PhD in the [Baryon Cycle in Nearby Galaxies](https://www
     <li class="date">2016, Oct. 07</li>
     <li class="tags">
         <ul>
-        <li><a href="#">Bachelor Thesis</a></li>
+        <li>Bachelor Thesis</li>
         </ul>
     </li>
     </ul>
 </div>
 <div class="description">
     <h1>Dynamic stirring of planetesimals</h1>
-    <p>I did my Bachelor in the <a href="http://www.ita.uni-heidelberg.de/~dullemond/">Planet Formation Group</a> of Kees Dullemond.</p>
+    <p>I did my Bachelor in the <a href="http://www.ita.uni-heidelberg.de/~dullemond/">Planet Formation Group</a> of Kees Dullemond. I used the N-body integrator Mercury6 to test if the conditions in the early solar system were sufficient to form chondrules by high velocity impacts.</p>
 </div>
 </div>
