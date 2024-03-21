@@ -9,48 +9,34 @@ body {
   background-color: $backcolor;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /* the text color */
 p {
   font-family: $fonts; 
   font-size: 1.2em;
   line-height: 1.4em;
   color: $textcolor;
+  text-align: justify;
 }
 
-ul li{
-  font-size:1.2em;
- }
-
-nav ul, footer ul {
-  font-family: $fonts;
-  padding: 0px;
-  list-style: none;
-  font-weight: bold;
-}
-nav ul li, footer ul li {
-  display: inline;
-  margin-right: 20px;
-}
 a {
   text-decoration: none;
   color: $accentcolor;
 }
 a:hover {
-  text-decoration: none;
-  //background-color: #ddd;
-  color: $darkgray;
+  text-decoration-line: underline;
 }
+
 h1 {
   font-family: $fonts;
   font-size: 2em;
 }
 
 
-ul.posts { 
-  margin: 20px auto 40px; 
-  font-size: 1.2em;
-}
-
+// remove bullet points from blog post list
 ul.posts li {
   list-style: none;
 }
