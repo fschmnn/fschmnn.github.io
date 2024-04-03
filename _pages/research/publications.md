@@ -10,7 +10,7 @@ For an up-to-date list of publications see [ADS](https://ui.adsabs.harvard.edu/s
 ### First-author 
 
 1. Scheuermann, F. et al., 2022, [MNRAS](http://dx.doi.org/10.1093/mnras/stac110), [511, 6087](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6087S),<br>*Planetary nebula luminosity function distances for 19 galaxies observed by PHANGS–MUSE.*
-2. Scheuermann, F. et al., 2023, [MNRAS](http://dx.doi.org/10.1093/mnras/stad878), ([accepted](https://arxiv.org/abs/2303.12101)),<br>*Stellar associations powering Hɪɪ regions – I. Defining an evolutionary sequence.*
+2. Scheuermann, F. et al., 2023, [MNRAS](http://dx.doi.org/10.1093/mnras/stad878), [522, 2369,](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2369S)),<br>*Stellar associations powering Hɪɪ regions – I. Defining an evolutionary sequence.*
 3. Scheuermann, F. et al., (in preparation),<br> *Stellar associations powering Hɪɪ regions – II. Escape fractions.*
 
 ### Co-author
@@ -30,10 +30,10 @@ For an up-to-date list of publications see [ADS](https://ui.adsabs.harvard.edu/s
 14. Watkins, E. J. et al. (inc. *Scheuermann, F.*), 2023, [ApJL](http://dx.doi.org/10.3847/2041-8213/aca6e4), [944, L24](https://ui.adsabs.harvard.edu/abs/2022arXiv221200811W),<br>*PHANGS–JWST First Results: A statistical view on bubble evolution in NGC 628.*
 15. Whitmore, B. C. et al. (inc. *Scheuermann, F.*), 2023, [MNRAS](https://doi.org/10.1093/mnras/stad098), [520, 63](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520...63W),<br>*Improving Cluster Age Estimates in PHANGS–HST Galaxies.*
 16. Groves, B. et al. (inc. *Scheuermann, F.*), 2023, [MNRAS](http://dx.doi.org/10.1093/mnras/stad114), [520, 4902](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520...63W),<br>*The PHANGS–MUSE Nebular Catalogue.*
-17. Congiu, E. et al. (inc. *Scheuermann, F.*), 2023, [A&A](http://dx.doi.org/), [accepted](https://ui.adsabs.harvard.edu/abs/2023arXiv230203062C),<br>*PHANGS–MUSE: detection and Bayesian classification of ∼40,000 ionised nebulae
+17. Congiu, E. et al. (inc. *Scheuermann, F.*), 2023, [A&A](http://dx.doi.org/10.1051/0004-6361/202245153), [672, A148](https://ui.adsabs.harvard.edu/abs/2023A&A...672A.148C ),<br>*PHANGS–MUSE: detection and Bayesian classification of ∼40,000 ionised nebulae
      in nearby spiral galaxies.*
-18. Watkins, E. J. et al. (inc. *Scheuermann, F.*), 2023, A&A, [submitted](https://ui.adsabs.harvard.edu/abs/2023arXiv230203699W/abstract),<br>*Quantifying the energetics of molecular superbubbles in PHANGS galaxies.*
-19. Hannon, S. et al. (inc. *Scheuermann, F.*), (in preparation),<br>*Star Cluster Classification using Deep Transfer Learning with PHANGS–HST.*
+18. Watkins, E. J. et al. (inc. *Scheuermann, F.*), 2023, [A&A](https://dx.doi.org/10.1051/0004-6361/202346075), [676, A67](https://ui.adsabs.harvard.edu/abs/2023A%26A...676A..67W),<br>*Quantifying the energetics of molecular superbubbles in PHANGS galaxies.*
+19. Hannon, S. et al. (inc. *Scheuermann, F.*), 2023, [MNRAS](https://dx.doi.org/10.1093/mnras/stad2238) , [526, 2991](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.2991H),<br>*Star Cluster Classification using Deep Transfer Learning with PHANGS–HST.*
 20. Congiu, E., Scheuermann, F. et al., (in preparation),<br>*PNLF distance to NGC 253.*
 
 
