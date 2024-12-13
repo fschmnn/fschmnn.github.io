@@ -9,11 +9,6 @@ description: Übersicht an Quellen für die Ahnenforschung.
 Diese Seite präsentiert eine Übersicht an nützlichen Seiten zur Ahnenforschung.
 
 
-## Sterbebilder
-
-Hier ist eine [Sammlung von Sterbebilder](/genealogie/sterbebilder) für Mudau und Umgebung.
-
-
 ## Online Datenbanken
 
 Folgende Onlineressourcen wurden für die Recherche verwendet (mit Link zur Quelle):
