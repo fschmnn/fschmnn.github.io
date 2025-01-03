@@ -17,7 +17,7 @@ description: I am a PhD Student in astronomy in Heidelberg
 
 I am a PhD Student at Heidelberg University. My research is focused on the ionized gas in nearby galaxy.
 
-Nice of you to stop by. However, the site has moved and is no longer updated here. You can find the new home under [www.fschmnn.com](www.fschmnn.com).
+Nice of you to stop by. However, the site has moved and is no longer updated here. You can find the new home under <a href="www.fschmnn.com">www.fschmnn.com</a>.
 
 </p>
 
